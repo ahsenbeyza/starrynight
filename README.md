@@ -7,7 +7,11 @@ Forget the grid. This is a full-screen, animated sky where your GitHub activity 
 This project was created for a hackathon with one goal:  
 **Make contribution tracking feel magical.**
 
----
+<img width="1652" height="940" alt="Screenshot 2025-07-29 at 10 35 11 AM" src="https://github.com/user-attachments/assets/09a02faa-5c29-4f3a-92d4-4d8c5f5390b9" />
+
+
+<img width="1652" height="940" alt="Screenshot 2025-07-29 at 10 34 56 AM" src="https://github.com/user-attachments/assets/0c8e09d4-8ef8-43fe-93a0-568b7eb6ec0f" />
+
 
 ## 🌌 Features
 
