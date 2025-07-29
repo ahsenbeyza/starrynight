@@ -50,29 +50,6 @@ This project was created for a hackathon with one goal:
 
 ---
 
-## 📁 File Structure
-
-```
-github-starry-night/
-├── index.html          # Main web page
-├── style.css           # Starry night visuals and layout
-├── sketch.js           # p5.js logic (not included here)
-└── README.md           # You are here
-```
-
----
-
-## 🚀 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/github-starry-night.git
-   cd github-starry-night
-   ```
-
-2. Open `index.html` in your browser.
-
----
 
 ## 💡 Inspiration
 
